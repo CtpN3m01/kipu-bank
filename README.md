@@ -13,7 +13,7 @@ The contract is fewer than 144 lines yet follows every modern Solidity recommend
 
 ## 🚀 Quick Deployment
 
-| Item | Value (replace 👇) |
+| Item | Value |
 |------|-------------------|
 | **Network** | `Sepolia` |
 | **Contract address** | `0xaed145cbfc837b1cef95cff8ab78c21e4806a1ac` |
@@ -46,7 +46,6 @@ The contract is fewer than 144 lines yet follows every modern Solidity recommend
      - `_withdrawLimit` → `1000000000000000000` (= 1 ETH)
      - `_bankCap` → `100000000000000000000` (= 100 ETH)
 4. Click **Deploy**, wait for MetaMask confirmation.
-5. 
 ---
 
 ## 💬 Interacting
